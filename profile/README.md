@@ -230,8 +230,8 @@ class TemperatureSensor(InternalPluginBase):
 ## 📚 Документация и публикации
 
 - **Магистерская диссертация:** Коновалов М. А. «Проектирование и реализация распределённой микросервисной платформы управления умным домом с интерфейсами для безопасного расширения функциональности компонентами». — НИЯУ МИФИ, кафедра №42 «Криптология и кибербезопасность», 2026.
-- **Архитектурная политика ядра:** [core-runtime-service/docs/CORE_KERNEL_POLICY_RU.md](https://github.com/home-console/core-runtime-service/blob/main/docs/CORE_KERNEL_POLICY_RU.md)
-- **Правила разработки:** [core-runtime-service/docs/CORE_DEVELOPMENT_RULES_RU.md](https://github.com/home-console/core-runtime-service/blob/main/docs/CORE_DEVELOPMENT_RULES_RU.md)
+- **Архитектурная политика ядра:** [core-runtime-service/docs/CORE_KERNEL_POLICY_RU.md](https://github.com/home-console/core-runtime-service/blob/master/docs/CORE_KERNEL_POLICY_RU.md)
+- **Правила разработки:** [core-runtime-service/docs/CORE_DEVELOPMENT_RULES_RU.md](https://github.com/home-console/core-runtime-service/blob/master/docs/CORE_DEVELOPMENT_RULES_RU.md)
 - **ADR (Architecture Decision Records):** в каждом репозитории под `docs/adr/`
 - **OpenAPI 3.0:** `openapi.yaml` в `core-runtime-service` и `marketplace-api` (Swagger по `/docs`)
 
